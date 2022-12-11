@@ -1,2 +1,2 @@
 # rsschool-cv
-https://distemper888.github.io/rsschool-cv/cv
+https://distemper888.github.io/rsschool-cv/
