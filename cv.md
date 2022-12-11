@@ -2,5 +2,6 @@
 
 ## Contacts
 ## About me
-## Skills
+## Skills and experience
+## Code example
 ## Languages
