@@ -1,5 +1,4 @@
 # Dmitriy M.
-![a](https://user-images.githubusercontent.com/119881910/206926768-46fe0a3b-4378-453f-a622-5db157ea2470.jpg)
 ## Contacts
 * __Discord:__ justix2k(distemper888)
 * __E-mail:__ just4oneday@gmail.com
